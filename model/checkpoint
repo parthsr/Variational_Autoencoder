@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/parth/ml/vae/model/model9000.ckpt"
+all_model_checkpoint_paths: "/home/parth/ml/vae/model/model5000.ckpt"
+all_model_checkpoint_paths: "/home/parth/ml/vae/model/model6000.ckpt"
+all_model_checkpoint_paths: "/home/parth/ml/vae/model/model7000.ckpt"
+all_model_checkpoint_paths: "/home/parth/ml/vae/model/model8000.ckpt"
+all_model_checkpoint_paths: "/home/parth/ml/vae/model/model9000.ckpt"
